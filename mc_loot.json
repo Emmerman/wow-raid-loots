@@ -1,0 +1,858 @@
+{
+"16800": {
+	"name":		"Arcanist Boots",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Lucifron"
+},
+"17109": {
+	"name":		"Choker of Enlightenment",
+	"rarity":	"epic",
+	"priority":	"mage warlock shadow elemental balance",
+	"source":	"Lucifron"
+},
+"16829": {
+	"name":		"Cenarion Boots",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Lucifron"
+},
+"16805": {
+	"name":		"Felheart Gloves",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Lucifron"
+},
+"16863": {
+	"name":		"Gauntlets of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Lucifron"
+},
+"16837": {
+	"name":		"Earthfury Boots",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Lucifron"
+},
+"16665": {
+	"name":		"Tome of Tranquilizing Shot",
+	"rarity":	"uncommon",
+	"priority":	"hunter",
+	"source":	"Lucifron"
+},
+
+"16796": {
+	"name":		"Arcanist Leggings",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Magmadar"
+},
+"16835": {
+	"name":		"Cenarion Leggings",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Magmadar"
+},
+"16843": {
+	"name":		"Earthfury Legguards",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Magmadar"
+},
+"17073": {
+	"name":		"Earthshaker",
+	"rarity":	"epic",
+	"priority":	"dpswar enchancer > protwar restoshaman elemental",
+	"source":	"Magmadar"
+},
+"18203": {
+	"name":		"Eskhandar's Right Claw",
+	"rarity":	"epic",
+	"priority":	"protwar > rogue dpswar feral enchancer",
+	"source":	"Magmadar"
+},
+"16810": {
+	"name":		"Felheart Pants",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Magmadar"
+},
+"16847": {
+	"name":		"Giantstalker's Leggings",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Magmadar"
+},
+"16867": {
+	"name":		"Legplates of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Magmadar"
+},
+"17065": {
+	"name":		"Medallion of Steadfast Might",
+	"rarity":	"epic",
+	"priority":	"protwar bear",
+	"source":	"Magmadar"
+},
+"16822": {
+	"name":		"Nightslayer Pants",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Magmadar"
+},
+"16814": {
+	"name":		"Pants of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Magmadar"
+},
+"17069": {
+	"name":		"Striker's Mark",
+	"rarity":	"epic",
+	"priority":	"hunter > rogue dpswar",
+	"source":	"Magmadar"
+},
+
+"16839": {
+	"name":		"Earthfury Gauntlets",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Gehennas"
+},
+"16849": {
+	"name":		"Giantstalker's Boots",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Gehennas"
+},
+"16812": {
+	"name":		"Gloves of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Gehennas"
+},
+"16826": {
+	"name":		"Nightslayer Gloves",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Gehennas"
+},
+"16862": {
+	"name":		"Sabatons of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Gehennas"
+},
+
+"16795": {
+	"name":		"Arcanist Crown",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Garr"
+},
+"17105": {
+	"name":		"Aurastone Hammer",
+	"rarity":	"epic",
+	"priority":	"priest shadow elemental restodruid > restoshaman balance",
+	"source":	"Garr"
+},
+"18832": {
+	"name":		"Brutality Blade",
+	"rarity":	"epic",
+	"priority":	"rogue dpswar > hunter",
+	"source":	"Garr"
+},
+"16834": {
+	"name":		"Cenarion Helm",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Garr"
+},
+"16813": {
+	"name":		"Circlet of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Garr"
+},
+"17066": {
+	"name":		"Drillborer Disk",
+	"rarity":	"epic",
+	"priority":	"protwar",
+	"source":	"Garr"
+},
+"16842": {
+	"name":		"Earthfury Helmet",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Garr"
+},
+"16808": {
+	"name":		"Felheart Horns",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Garr"
+},
+"16846": {
+	"name":		"Giantstalker's Helmet",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Garr"
+},
+"17071": {
+	"name":		"Gutgore Ripper",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Garr"
+},
+"16866": {
+	"name":		"Helm of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Garr"
+},
+"16821": {
+	"name":		"Nightslayer Cover",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Garr"
+},
+"18564": {
+	"name":		"Bindings of the Windseeker",
+	"rarity":	"legendary",
+	"priority":	"guild > binding > protwar",
+	"source":	"Garr"
+},
+
+"16801": {
+	"name":		"Arcanist Gloves",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Shazzrah"
+},
+"16831": {
+	"name":		"Cenarion Gloves",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Shazzrah"
+},
+"16852": {
+	"name":		"Giantstalker's Gloves",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Shazzrah"
+},
+"16811": {
+	"name":		"Boots of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Shazzrah"
+},
+"16803": {
+	"name":		"Felheart Slippers",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Shazzrah"
+},
+"16824": {
+	"name":		"Nightslayer Boots",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Shazzrah"
+},
+
+"16797": {
+	"name":		"Arcanist Mantle",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Geddon"
+},
+"16836": {
+	"name":		"Cenarion Spaulders",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Geddon"
+},
+"16844": {
+	"name":		"Earthfury Epaulets",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Geddon"
+},
+"16807": {
+	"name":		"Felheart Shoulder Pads",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Geddon"
+},
+"17110": {
+	"name":		"Seal of the Archmagus",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid priest",
+	"source":	"Geddon"
+},
+"18563": {
+	"name":		"Bindings of the Windseeker",
+	"rarity":	"legendary",
+	"priority":	"guild > binding > protwar",
+	"source":	"Geddon"
+},
+
+"16798": {
+	"name":		"Arcanist Robes",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Golemagg"
+},
+"17103": {
+	"name":		"Azuresong Mageblade",
+	"rarity":	"epic",
+	"priority":	"mage warlock",
+	"source":	"Golemagg"
+},
+"17072": {
+	"name":		"Blastershot Launcher",
+	"rarity":	"epic",
+	"priority":	"hunter > rogue dpswar",
+	"source":	"Golemagg"
+},
+"16865": {
+	"name":		"Breastplate of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Golemagg"
+},
+"16833": {
+	"name":		"Cenarion Vestments",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Golemagg"
+},
+"16841": {
+	"name":		"Earthfury Vestments",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Golemagg"
+},
+"16809": {
+	"name":		"Felheart Robes",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Golemagg"
+},
+"16845": {
+	"name":		"Giantstalker's Breastplate",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Golemagg"
+},
+"16820": {
+	"name":		"Nightslayer Chestpiece",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Golemagg"
+},
+"16815": {
+	"name":		"Robes of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Golemagg"
+},
+"18842": {
+	"name":		"Staff of Dominance",
+	"rarity":	"epic",
+	"priority":	"mage warlock elemental shadow balance",
+	"source":	"Golemagg"
+},
+"17203": {
+	"name":		"Sulfuron Ingot",
+	"rarity":	"epic",
+	"priority":	"guild > eye trade",
+	"source":	"Golemagg"
+},
+
+"16848": {
+	"name":		"Giantstalker's Epaulets",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Sulfuron"
+},
+"16816": {
+	"name":		"Mantle of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Sulfuron"
+},
+"16823": {
+	"name":		"Nightslayer Shoulder Pads",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Sulfuron"
+},
+"16868": {
+	"name":		"Pauldrons of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Sulfuron"
+},
+"17074": {
+	"name":		"Shadowstrike",
+	"rarity":	"epic",
+	"priority":	"dpswar",
+	"source":	"Sulfuron"
+},
+
+"18703": {
+	"name":		"Ancient Petrified Leaf",
+	"rarity":	"epic",
+	"priority":	"guild > hunter",
+	"source":	"Majordomo"
+},
+"19140": {
+	"name":		"Cauterizing Band",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid priest",
+	"source":	"Majordomo"
+},
+"18806": {
+	"name":		"Core Forged Greaves",
+	"rarity":	"epic",
+	"priority":	"protwar",
+	"source":	"Majordomo"
+},
+"18805": {
+	"name":		"Core Hound Tooth",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Majordomo"
+},
+"18803": {
+	"name":		"Finkle's Lava Dredger",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid",
+	"source":	"Majordomo"
+},
+"19139": {
+	"name":		"Fireguard Shoulders",
+	"rarity":	"epic",
+	"priority":	"bear",
+	"source":	"Majordomo"
+},
+"18811": {
+	"name":		"Fireproof Cloak",
+	"rarity":	"epic",
+	"priority":	"mage warlock priest shadow elemental restoshaman balance restodruid",
+	"source":	"Majordomo"
+},
+"18808": {
+	"name":		"Gloves of the Hypnotic Flame",
+	"rarity":	"epic",
+	"priority":	"mage warlock",
+	"source":	"Majordomo"
+},
+"18809": {
+	"name":		"Sash of Whispered Secrets",
+	"rarity":	"epic",
+	"priority":	"warlock shadow",
+	"source":	"Majordomo"
+},
+"18646": {
+	"name":		"the Eye of Divinity",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Majordomo"
+},
+"18810": {
+	"name":		"Wild Growth Spaulders",
+	"rarity":	"epic",
+	"priority":	"restodruid restoshaman",
+	"source":	"Majordomo"
+},
+"18812": {
+	"name":		"Wristguards of True Flight",
+	"rarity":	"epic",
+	"priority":	"enchancer hunter",
+	"source":	"Majordomo"
+},
+
+"17063": {
+	"name":		"Band of Accuria",
+	"rarity":	"epic",
+	"priority":	"rogue feral hunter dpswar enchancer > protwar",
+	"source":	"Ragnaros"
+},
+"19138": {
+	"name":		"Band of Sulfuras",
+	"rarity":	"epic",
+	"priority":	"mage warlock priest shadow elemental restoshaman balance restodruid",
+	"source":	"Ragnaros"
+},
+"16909": {
+	"name":		"Bloodfang Pants",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Ragnaros"
+},
+"17076": {
+	"name":		"Bonereaver's Edge",
+	"rarity":	"epic",
+	"priority":	"dpswar",
+	"source":	"Ragnaros"
+},
+"18814": {
+	"name":		"Choker of the Fire Lord",
+	"rarity":	"epic",
+	"priority":	"mage warlock shadow elemental balance",
+	"source":	"Ragnaros"
+},
+"17102": {
+	"name":		"Cloak of the Shrouded Mists",
+	"rarity":	"epic",
+	"priority":	"rogue feral hunter enchancer",
+	"source":	"Ragnaros"
+},
+"18817": {
+	"name":		"Crown of Destruction",
+	"rarity":	"epic",
+	"priority":	"enchancer hunter",
+	"source":	"Ragnaros"
+},
+"17107": {
+	"name":		"Dragon's Blood Cape",
+	"rarity":	"epic",
+	"priority":	"protwar bear",
+	"source":	"Ragnaros"
+},
+"16938": {
+	"name":		"Dragonstalker's Legguards",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Ragnaros"
+},
+"18815": {
+	"name":		"Essence of the Pure Flame",
+	"rarity":	"epic",
+	"priority":	"roll",
+	"source":	"Ragnaros"
+},
+"16954": {
+	"name":		"Judgement Legplates",
+	"rarity":	"epic",
+	"priority":	"roll",
+	"source":	"Ragnaros"
+},
+"16922": {
+	"name":		"Leggings of Transcendence",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Ragnaros"
+},
+"16946": {
+	"name":		"Legplates of Ten Storms",
+	"rarity":	"epic",
+	"priority":	"restoshaman elemental enchancer",
+	"source":	"Ragnaros"
+},
+"16962": {
+	"name":		"Legplates of Wrath",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Ragnaros"
+},
+"17106": {
+	"name":		"Malistar's Defender",
+	"rarity":	"epic",
+	"priority":	"enchancer restoshaman",
+	"source":	"Ragnaros"
+},
+"16930": {
+	"name":		"Nemesis Leggings",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Ragnaros"
+},
+"16915": {
+	"name":		"Netherwind Pants",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Ragnaros"
+},
+"19137": {
+	"name":		"Onslaught Girdle",
+	"rarity":	"epic",
+	"priority":	"dpswar",
+	"source":	"Ragnaros"
+},
+"18816": {
+	"name":		"Perdition's Blade",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Ragnaros"
+},
+"17082": {
+	"name":		"Shard of the Flame",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid priest",
+	"source":	"Ragnaros"
+},
+"17104": {
+	"name":		"Spinal Reaper",
+	"rarity":	"epic",
+	"priority":	"dpswar enchancer",
+	"source":	"Ragnaros"
+},
+"16901": {
+	"name":		"Stormrage Legguards",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Ragnaros"
+},
+"17204": {
+	"name":		"Eye of Sulfuras",
+	"rarity":	"legendary",
+	"priority":	"guild",
+	"source":	"Ragnaros"
+},
+
+"16828": {
+	"name":		"Cenarion Belt",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Trash"
+},
+"16851": {
+	"name":		"Giantstalker's Belt",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Trash"
+},
+"16802": {
+	"name":		"Arcanist Belt",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Trash"
+},
+"16817": {
+	"name":		"Girdle of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Trash"
+},
+"16827": {
+	"name":		"Nightslayer Belt",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Trash"
+},
+"16838": {
+	"name":		"Earthfury Belt",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Trash"
+},
+"16806": {
+	"name":		"Felheart Belt",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Trash"
+},
+"16864": {
+	"name":		"Belt of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Trash"
+},
+"16830": {
+	"name":		"Cenarion Bracers",
+	"rarity":	"epic",
+	"priority":	"restodruid feral bear balance",
+	"source":	"Trash"
+},
+"16850": {
+	"name":		"Giantstalker's Bracers",
+	"rarity":	"epic",
+	"priority":	"hunter",
+	"source":	"Trash"
+},
+"16799": {
+	"name":		"Arcanist Bindings",
+	"rarity":	"epic",
+	"priority":	"mage",
+	"source":	"Trash"
+},
+"16819": {
+	"name":		"Vambraces of Prophecy",
+	"rarity":	"epic",
+	"priority":	"priest shadow",
+	"source":	"Trash"
+},
+"16825": {
+	"name":		"Nightslayer Bracelets",
+	"rarity":	"epic",
+	"priority":	"rogue",
+	"source":	"Trash"
+},
+"16840": {
+	"name":		"Earthfury Bracers",
+	"rarity":	"epic",
+	"priority":	"restoshaman > elemental enchancer",
+	"source":	"Trash"
+},
+"16804": {
+	"name":		"Felheart Bracers",
+	"rarity":	"epic",
+	"priority":	"warlock",
+	"source":	"Trash"
+},
+"16861": {
+	"name":		"Bracers of Might",
+	"rarity":	"epic",
+	"priority":	"protwar > dpswar",
+	"source":	"Trash"
+},
+
+"19145": {
+	"name":		"Robe of Volatile Power",
+	"rarity":	"epic",
+	"priority":	"mage warlock shadow",
+	"source":	"Lucifron Gehennas Shazzrah"
+},
+"18872": {
+	"name":		"Manastorm Leggings",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid priest",
+	"source":	"Gehennas Sulfuron Lucifron"
+},
+"19136": {
+	"name":		"Mana Igniting Cord",
+	"rarity":	"epic",
+	"priority":	"mage warlock shadow",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18823": {
+	"name":		"Aged Core Leather Gloves",
+	"rarity":	"epic",
+	"priority":	"rogue feral > dpswar enchancer",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"19146": {
+	"name":		"Wristguards of Stability",
+	"rarity":	"epic",
+	"priority":	"dpswar feral enchancer",
+	"source":	"Gehennas Lucifron Sulfuron Shazzrah"
+},
+"18875": {
+	"name":		"Salamander Scale Pants",
+	"rarity":	"epic",
+	"priority":	"restoshaman restodruid",
+	"source":	"Gehennas Lucifron Sulfuron Shazzrah"
+},
+"19144": {
+	"name":		"Sabatons of the Flamewalker",
+	"rarity":	"epic",
+	"priority":	"enchancer > dpswar protwar",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18829": {
+	"name":		"Deep Earth Spaulders",
+	"rarity":	"epic",
+	"priority":	"elemental",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18861": {
+	"name":		"Flamewaker Legplates",
+	"rarity":	"epic",
+	"priority":	"protwar",
+	"source":	"Gehennas Magmadar Sulfuron Garr Geddon Golemagg Lucifron"
+},
+"18824": {
+	"name":		"Magma Tempered Boots",
+	"rarity":	"epic",
+	"priority":	"roll",
+	"source":	"Magmadar Garr Geddon"
+},
+"19143": {
+	"name":		"Flameguard Gauntlets",
+	"rarity":	"epic",
+	"priority":	"dpswar",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"19147": {
+	"name":		"Ring of Spell Power",
+	"rarity":	"epic",
+	"priority":	"mage warlock elemental shadow balance",
+	"source":	"Gehennas Sulfuron Lucifron Shazzrah"
+},
+"18879": {
+	"name":		"Heavy Dark Iron Ring",
+	"rarity":	"epic",
+	"priority":	"protwar feral",
+	"source":	"Gehennas Sulfuron Lucifron"
+},
+"18820": {
+	"name":		"Talisman of Ephemeral Power",
+	"rarity":	"epic",
+	"priority":	"mage warlock shadow elemental balance",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18821": {
+	"name":		"Quick Strike Ring",
+	"rarity":	"epic",
+	"priority":	"rogue dpswar hunter feral enchancer",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"19142": {
+	"name":		"Fire Runed Grimoire",
+	"rarity":	"epic",
+	"priority":	"mage warlock elemental restoshaman priest shadow balance",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18822": {
+	"name":		"Obsidian Edged Blade",
+	"rarity":	"epic",
+	"priority":	"dpswar > protwar",
+	"source":	"Garr Geddon Magmadar Golemagg"
+},
+"18878": {
+	"name":		"Sorcerous Dagger",
+	"rarity":	"epic",
+	"priority":	"mage warlock elemental shadow balance",
+	"source":	"Gehennas Sulfuron Shazzrah"
+},
+"17077": {
+	"name":		"Crimson Shocker",
+	"rarity":	"epic",
+	"priority":	"mage warlock priest shadow",
+	"source":	"Gehennas Sulfuron Shazzrah"
+},
+"18870": {
+	"name":		"Helm of the Lifegiver",
+	"rarity":	"epic",
+	"priority":	"restoshaman",
+	"source":	"Gehennas Sulfuron Lucifron Shazzrah"
+},
+"18252": {
+	"name":		"Pattern Core Armor Kit",
+	"rarity":	"rare",
+	"priority":	"trade",
+	"source":	"Geddon Magmadar Golemagg Lucifron Garr Shazzrah Gehennas"
+},
+"18260": {
+	"name":		"Formula Enchant Weapon Healing Power",
+	"rarity":	"rare",
+	"priority":	"trade",
+	"source":	"Geddon Magmadar Golemagg Lucifron Garr Shazzrah Gehennas"
+},
+"18264": {
+	"name":		"Plans Elemental Sharpening Stone",
+	"rarity":	"rare",
+	"priority":	"trade",
+	"source":	"Geddon Magmadar Golemagg Lucifron Garr Shazzrah Gehennas"
+},
+"18291": {
+	"name":		"Schematic Force Reactive Disk",
+	"rarity":	"rare",
+	"priority":	"trade",
+	"source":	"Geddon Magmadar Golemagg Lucifron Garr Shazzrah Gehennas"}
+}
